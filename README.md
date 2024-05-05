@@ -2,9 +2,10 @@
 
 This is a full-color printed custom motherboard for the game Tetris DX for Game Boy. You can use it to customize your original Tetris DX, which may have lost its battery since it was released in 1998 and may have a damaged/rusted circuit. Additionally, as you can see in the photos, this new circuit will give an incredible look to your Tetris DX. Remember to use a transparent Game Boy or Game Boy Color shell to display it in all its splendor.
 
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/4.%20Photos/GBASP_USB_8.jpg)
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/4.%20Photos/GBASP_USB_3.jpg)
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/4.%20Photos/GBASP_USB_6.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/Tetris-DX-PCB/master/4.%20Photos/Tetris%20DX%202.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/Tetris-DX-PCB/master/4.%20Photos/Tetris%20DX%203.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/Tetris-DX-PCB/master/4.%20Photos/Tetris%20DX%204.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/Tetris-DX-PCB/master/4.%20Photos/Tetris%20DX%201.jpg)
 
 
 
